@@ -9,7 +9,7 @@
             <div class="copyright text-center my-auto">
                 <span>
                     <?php echo date('Y');?> - Sistem Penjualan Barang Berbasis Web |
-                    BY <b><a href="https://codekop.com" target="_blank">CODEKOP.COM</a></b>
+                    By <b><a href="https://fortuneup.id" target="_blank">Fortune Up</a></b>
                 </span>
             </div>
         </div>

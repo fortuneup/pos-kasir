@@ -2,11 +2,10 @@
 /*
   | Source Code Aplikasi Penjualan Barang Kasir dengan PHP & MYSQL
   | 
-  | @package   : pos-kasir-php
+  | @package   : pos-kasir
   | @file	   : index.php 
-  | @author    : fauzan1892 / Fauzan Falah
-  | @copyright : Copyright (c) 2017-2021 Codekop.com (https://www.codekop.com)
-  | @blog      : https://www.codekop.com/read/source-code-aplikasi-penjualan-barang-kasir-dengan-php-amp-mysql-gratis.html
+  | @author    : Fortune Up
+  | @copyright : Copyright (c) 2024 Fortune Up (https://www.fortuneup.id)
   | 
   | 
   | 

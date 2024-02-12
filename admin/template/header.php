@@ -9,7 +9,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>POS Kasir | Codekop</title>
+    <title>POS Kasir | FortuneUp</title>
+    <link rel="icon" type="image/x-icon" href="pos-kasir/assets/img/favicon_fortune.ico">
 
     <!-- Custom fonts for this template-->
     <link href="sb-admin/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
